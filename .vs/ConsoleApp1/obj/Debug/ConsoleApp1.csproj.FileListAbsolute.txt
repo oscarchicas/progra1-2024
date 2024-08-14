@@ -1,0 +1,7 @@
+D:\Users\Estudiante\Downloads\Nueva carpeta\.vs\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Users\Estudiante\Downloads\Nueva carpeta\.vs\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Users\Estudiante\Downloads\Nueva carpeta\.vs\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Users\Estudiante\Downloads\Nueva carpeta\.vs\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Users\Estudiante\Downloads\Nueva carpeta\.vs\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Users\Estudiante\Downloads\Nueva carpeta\.vs\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Users\Estudiante\Downloads\Nueva carpeta\.vs\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
