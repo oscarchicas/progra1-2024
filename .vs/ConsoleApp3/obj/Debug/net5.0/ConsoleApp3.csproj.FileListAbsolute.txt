@@ -1,0 +1,4 @@
+D:\Users\Estudiante\Downloads\Nueva carpeta\.vs\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Estudiante\Downloads\Nueva carpeta\.vs\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.AssemblyInfoInputs.cache
+D:\Users\Estudiante\Downloads\Nueva carpeta\.vs\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.AssemblyInfo.cs
+D:\Users\Estudiante\Downloads\Nueva carpeta\.vs\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.csproj.CoreCompileInputs.cache

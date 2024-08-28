@@ -1,0 +1,5 @@
+D:\Users\Estudiante\Downloads\Nueva carpeta\.vs\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.csproj.AssemblyReference.cache
+D:\Users\Estudiante\Downloads\Nueva carpeta\.vs\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Estudiante\Downloads\Nueva carpeta\.vs\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.AssemblyInfoInputs.cache
+D:\Users\Estudiante\Downloads\Nueva carpeta\.vs\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.AssemblyInfo.cs
+D:\Users\Estudiante\Downloads\Nueva carpeta\.vs\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.csproj.CoreCompileInputs.cache

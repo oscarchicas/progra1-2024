@@ -1,0 +1,7 @@
+D:\Users\Estudiante\Downloads\Nueva carpeta\.vs\if\bin\Debug\@if.exe.config
+D:\Users\Estudiante\Downloads\Nueva carpeta\.vs\if\bin\Debug\@if.exe
+D:\Users\Estudiante\Downloads\Nueva carpeta\.vs\if\bin\Debug\@if.pdb
+D:\Users\Estudiante\Downloads\Nueva carpeta\.vs\if\obj\Debug\if.csproj.AssemblyReference.cache
+D:\Users\Estudiante\Downloads\Nueva carpeta\.vs\if\obj\Debug\if.csproj.CoreCompileInputs.cache
+D:\Users\Estudiante\Downloads\Nueva carpeta\.vs\if\obj\Debug\@if.exe
+D:\Users\Estudiante\Downloads\Nueva carpeta\.vs\if\obj\Debug\@if.pdb
